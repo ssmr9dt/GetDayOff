@@ -1,0 +1,22 @@
+{
+  "name": "ssmr9dt/getdayoff",
+  "description": "Get day off",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "require": {
+      "php": ">=5.0.0"
+  },
+  "authors": [
+    {
+      "name": "Satoshi Murakami",
+      "email": "ssmr9dt@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+	  "files": [
+	    "src/GetDayOff.class.php"
+	  ]
+  }
+}
